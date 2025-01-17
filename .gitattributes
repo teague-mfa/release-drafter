@@ -1,4 +1,4 @@
 * text=auto eol=lf
 *.png binary
 *.sketch binary
-*.sql linguist-detectable=true
+*.sql linguist-detectable=false
