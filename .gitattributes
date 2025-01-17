@@ -2,3 +2,4 @@
 *.png binary
 *.sketch binary
 *.sql linguist-detectable=false
+test/* linguist-vendored
