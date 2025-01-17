@@ -1,5 +1,4 @@
 * text=auto eol=lf
 *.png binary
 *.sketch binary
-*.sql linguist-detectable=false
-test/* linguist-vendored
+*.js linguist-detectable=false
