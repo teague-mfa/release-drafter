@@ -2,3 +2,4 @@
 *.png binary
 *.sketch binary
 lib/* linguist-detectable=false
+test/* linguist-detectable=false
